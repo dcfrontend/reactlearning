@@ -1,13 +1,9 @@
-import logo from './logo.svg';
 import './App.css';
+import Navbar from './componantes/Navbar';
 
 function App() {
   return (
-    <>
-    <div className="myname">
-      <h1>DC Frontend</h1>
-    </div>
-    </>
+    <Navbar title="Covert Case"/>
   );
 }
 
