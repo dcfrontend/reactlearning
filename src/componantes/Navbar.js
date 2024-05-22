@@ -53,3 +53,8 @@ import PropTypes from 'prop-types'
 Navbar.propTypes = {
     title: PropTypes.string.isRequired,
 }
+
+/// Default Props
+// Navbar.defaultProps = {
+//   title: 'Set Title Here'
+// }
