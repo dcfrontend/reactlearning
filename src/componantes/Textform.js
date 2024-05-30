@@ -33,9 +33,6 @@ export default function Textform(props) {
         <button className="btn btn-primary my-3 mx-3" onClick={handleLowercaseclick}>Convert Lowercase</button>
       </div>
     </div>
-    <div className="container">
-      
-    </div>
     </>
   );
 }
